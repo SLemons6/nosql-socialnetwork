@@ -1,1 +1,1 @@
-# nosql-socialnetwork
+# Social Network
